@@ -1,0 +1,19 @@
+{
+  "name": "color-clock",
+  "version": "1.0.0",
+  "description": "A clock application that changes colour every second.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo 'Hello, World!'",
+    "start": "serve"
+  },
+  "keywords": [
+    "clock"
+  ],
+  "author": "Samuel Gitimu",
+  "license": "ISC",
+  "dependencies": {
+    "date-fns": "^2.29.3",
+    "serve": "^14.1.2"
+  }
+}
